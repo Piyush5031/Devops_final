@@ -1,3 +1,4 @@
+➡️Name- Piyush, Batch-BCA PPU 3rd year, ID-444-5031
 🚀 Day 1: Git, AWS EC2, and GitHub Actions Setup
 1. Git Repository Setup and Initial Commit
 This section covers initializing your project and pushing the initial development code to your new GitHub repository.
